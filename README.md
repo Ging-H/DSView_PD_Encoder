@@ -1,5 +1,7 @@
 # DSView_PD_Encoder
+
 incremental rotary encoder, protocal decodes of DSView
+
 DSView的协议解码插件,增量式旋转编码器
 <img width="1422" height="310" alt="图片" src="https://github.com/user-attachments/assets/ca84669e-ff50-41e7-902e-9dcd183c93e9" />
 
@@ -17,3 +19,7 @@ DSView的协议解码插件,增量式旋转编码器
 
 <img width="713" height="317" alt="图片" src="https://github.com/user-attachments/assets/1afcca4b-0121-4445-aa40-44dff8e5ad2f" />
 
+参考依据:
+
+<img width="740" height="274" alt="图片" src="https://github.com/user-attachments/assets/391e2dfc-3290-4044-b1c0-d88ac5854e60" />
+<img width="717" height="376" alt="图片" src="https://github.com/user-attachments/assets/cac819f4-452e-43eb-afb9-2b2b9ad2f1bb" />
